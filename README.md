@@ -7,9 +7,11 @@ A repo which record my diet habit
 ## Canarypwn's Second Food Law
 当一个人年龄足够大的时候，他尝过大部分流行的食物。 As one grows up, one have tasted most of the prevalent food.
 
-> 推论一: 如果一个食物你没有见过，那么它大概率是不好吃的
-> 
-> Inference 1: If there is an unfamiliar food, it sucks.
+## Inference 1: If there is an unfamiliar food, it sucks.
+
+推论一: 如果一个食物你没有见过，那么它大概率是不好吃的
+
+Inference 1: If there is an unfamiliar food, it sucks.
 
 **Proof:**
 
