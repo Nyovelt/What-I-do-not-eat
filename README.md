@@ -42,6 +42,8 @@ P(B) is a constant, and by *Canarypwn's First Food Law*, $P(A)P(B|A)$ can be big
 - 舌头 Tongue
 - 仙人掌 cactus
 - 杂碎 a kind of connective tissue
+  - 牛经
+  - 淋巴
 - 爪子与蹄膀 feet
 - 胶 glue
 - 生殖器 genitals
@@ -49,11 +51,16 @@ P(B) is a constant, and by *Canarypwn's First Food Law*, $P(A)P(B|A)$ can be big
 - 肥肉 fat
 - 木耳 fungus
 - 难吃的粥 suck porridge
+- 螺蛳粉 snail noodles
+- 螺蛳 snail
+- 莲 lotus
 
 ## What-I-prefer-not-to-have
 - 骨骼惊奇的鱼, 复杂度超过鲫鱼的就算 Fish with large amount bones, e.g. crucian carp
 - 除了面条以外的面条 rice flour, rice noodle
   - 粉丝没问题 OK with fensi
+- 藕 lotus root
+- 
 
 ## Do not feed me with
 - 大于10%酒精的饮料 Beverages over 10% alcoholic
