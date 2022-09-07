@@ -47,7 +47,7 @@ Then
 - 舌头 Tongue
 - 仙人掌 cactus
 - 杂碎 a kind of connective tissue
-  - 牛经
+  - 牛筋
   - 淋巴
 - 爪子与蹄膀 feet
 - 胶 glue
