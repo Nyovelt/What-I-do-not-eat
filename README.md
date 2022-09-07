@@ -2,10 +2,14 @@
 A repo which record my diet habit
 
 ## Canarypwn's First Food Law
-如果一个东西很难吃，那么就不会流行 If something tastes bad, it won't be prevalent.
+如果一个东西很难吃，那么就不会流行 
+
+If something tastes bad, it won't be prevalent.
 
 ## Canarypwn's Second Food Law
-当一个人年龄足够大的时候，他尝过大部分流行的食物。 As one grows up, one have tasted most of the prevalent food.
+当一个人年龄足够大的时候，他尝过大部分流行的食物。
+
+As one grows up, one have tasted most of the prevalent food.
 
 ## Inference 1: If there is an unfamiliar food, it sucks.
 
