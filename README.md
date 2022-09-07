@@ -27,7 +27,7 @@ P(B) is a constant, and by *Canarypwn's First Food Law*, $P(A)P(B|A)$ can be big
 > 在此注意: 为了避免错失美食，应该以适当的概率 $a$ 来尝试未出现过的食物。
 > 
 > Note: To hide your identity as the only smart person at the dinner table, one should explore the unfamiliar food with an ratio a, where $0 \le a \le 1$. Here I propose to use learning techniques, whether by deep learning or statistical learning, to adjust $a$.
-
+> Another Hint: [MCTS](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
 
 ## What-I-do-not-eat
 - 内脏 internal organs
