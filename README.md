@@ -18,15 +18,15 @@ Inference 1: If there is an unfamiliar food, it sucks.
 Let ![](https://latex.codecogs.com/svg.image?P) denotes the possibility of meeting a bad-tasted food which you havn't met before.
 
 Then 
-![](https://latex.codecogs.com/svg.image?P&space;=&space;P(A|B)&space;=&space;\frac{P(A)P(B|A)}{p(B)}) where ![](https://latex.codecogs.com/svg.image?A) is the possibility of food which tastes bad, ![](https://latex.codecogs.com/svg.image?B) is the the possibility that you havn't met the food before.
+![](https://latex.codecogs.com/svg.image?P&space;=&space;P(A\|B)&space;=&space;\frac{P(A)P(B\|A)}{p(B)}) where ![](https://latex.codecogs.com/svg.image?A) is the possibility of food which tastes bad, ![](https://latex.codecogs.com/svg.image?B) is the the possibility that you havn't met the food before.
 
-![](https://latex.codecogs.com/svg.image?P(B)) is a constant, and by *Canarypwn's First Food Law*, ![](https://latex.codecogs.com/svg.image?P(A)P(B|A)) can be big, because bad food cannot be prevalent ![](https://latex.codecogs.com/svg.image?P(B|A)). ![](https://latex.codecogs.com/svg.image?\blacksquare)
+![](https://latex.codecogs.com/svg.image?P(B)) is a constant, and by *Canarypwn's First Food Law*, ![](https://latex.codecogs.com/svg.image?P(A)P(B\|A)) can be big, because bad food cannot be prevalent ![](https://latex.codecogs.com/svg.image?P(B\|A)). ![](https://latex.codecogs.com/svg.image?\blacksquare)
 
 
 
-**在此注意**: 为了避免错失美食，应该以适当的概率 $a$ 来尝试未出现过的食物。
+**在此注意**: 为了避免错失美食，应该以适当的概率 ![](https://latex.codecogs.com/svg.image?a) 来尝试未出现过的食物。
 
-**Note**: To hide your identity as the only smart person at the dinner table, one should explore the unfamiliar food with an ratio a, where ![](https://latex.codecogs.com/svg.image?0&space;\le&space;a&space;\le&space;1). Here I propose to use learning techniques, whether by deep learning or statistical learning, to adjust ![](https://latex.codecogs.com/svg.image?a).
+**Note**: To hide your identity as the only smart person at the dinner table, one should explore the unfamiliar food with an ratio ![](https://latex.codecogs.com/svg.image?a), where ![](https://latex.codecogs.com/svg.image?0&space;\le&space;a&space;\le&space;1). Here I propose to use learning techniques, whether by deep learning or statistical learning, to adjust ![](https://latex.codecogs.com/svg.image?a).
 
 **Another Hint**: [MCTS](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
 
