@@ -59,6 +59,8 @@ Then
 - 螺蛳粉 snail noodles
 - 螺蛳 snail
 - 莲 lotus
+- 豆汁 soybean juice
+- 炒肝 fried liver
 
 ## What-I-prefer-not-to-have
 - 骨骼惊奇的鱼, 复杂度超过鲫鱼的就算 Fish with large amount bones, e.g. crucian carp
@@ -71,4 +73,4 @@ Then
 - 大于10%酒精的饮料 Beverages over 10% alcoholic
 
 ## About flavor
-- 不能接受比`那么大鸡排`更辣的东西 Do not accept NaOH 
+- 不能接受比`那么大鸡排`更辣的东西 
